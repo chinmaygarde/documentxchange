@@ -8,3 +8,8 @@ C:\Users\Buzzy\Documents\Visual Studio 2008\Projects\DocumentShare\DocumentShare
 C:\Users\Buzzy\Documents\Visual Studio 2008\Projects\DocumentShare\DocumentShare\obj\Debug\DocumentShare.pdb
 C:\Users\Buzzy\Documents\Visual Studio 2008\Projects\DocumentShare\DocumentShare\bin\DocumentShare.dll
 C:\Users\Buzzy\Documents\Visual Studio 2008\Projects\DocumentShare\DocumentShare\bin\DocumentShare.pdb
+C:\Users\Buzzy\Desktop\DocumentXChange\DocumentShare\bin\DocumentShare.dll
+C:\Users\Buzzy\Desktop\DocumentXChange\DocumentShare\bin\DocumentShare.pdb
+C:\Users\Buzzy\Desktop\DocumentXChange\DocumentShare\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Buzzy\Desktop\DocumentXChange\DocumentShare\obj\Debug\DocumentShare.dll
+C:\Users\Buzzy\Desktop\DocumentXChange\DocumentShare\obj\Debug\DocumentShare.pdb

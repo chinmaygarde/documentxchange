@@ -40,12 +40,22 @@ namespace DocumentShare.Models
         }
         public Guid getUserIdForUserName(string userName)
         {
-            var users = from user in this.Users
-                        where user.UserName == userName
-                        select user;
-            return users.First().UserId;
+            return getUserForUserName(userName).UserId;
         }
-
+        public User getUserForUserName(string username)
+        {
+            var users = from user in this.Users
+                        where user.UserName == username
+                        select user;
+            return users.First();
+        }
+        /*public Document getDocument(int id)
+        {
+            var dcouments = from d in this.Documents
+                            where d.Id == id
+                            select d;
+            return dcouments.First();
+        }*/
         public void insertComment(Comment comment)
         {
             this.Comments.InsertOnSubmit(comment);
