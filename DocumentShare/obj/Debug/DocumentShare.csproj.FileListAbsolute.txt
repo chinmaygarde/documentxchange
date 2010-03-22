@@ -13,3 +13,8 @@ C:\Users\Buzzy\Desktop\DocumentXChange\DocumentShare\bin\DocumentShare.pdb
 C:\Users\Buzzy\Desktop\DocumentXChange\DocumentShare\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\Buzzy\Desktop\DocumentXChange\DocumentShare\obj\Debug\DocumentShare.dll
 C:\Users\Buzzy\Desktop\DocumentXChange\DocumentShare\obj\Debug\DocumentShare.pdb
+C:\Users\Chinmay Garde\Desktop\documentxchange\DocumentShare\bin\DocumentShare.dll
+C:\Users\Chinmay Garde\Desktop\documentxchange\DocumentShare\bin\DocumentShare.pdb
+C:\Users\Chinmay Garde\Desktop\documentxchange\DocumentShare\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Chinmay Garde\Desktop\documentxchange\DocumentShare\obj\Debug\DocumentShare.dll
+C:\Users\Chinmay Garde\Desktop\documentxchange\DocumentShare\obj\Debug\DocumentShare.pdb
